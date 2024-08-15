@@ -3,6 +3,7 @@ import coverPhoto from '../../../assets/images/cover-01.png'
 import userPhoto from '../../../assets/images/user-06.png'
 import { IoCameraOutline } from "react-icons/io5";
 import { FaFacebookF, FaTwitter, FaLinkedinIn, FaDribbble, FaGithub } from "react-icons/fa";
+
 const Card = ({ user }) => {
 
 

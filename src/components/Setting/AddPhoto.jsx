@@ -1,5 +1,6 @@
 import React from 'react'
 import userImg from '../../assets/images/user-03.png'
+
 const AddPhoto = () => {
     return (
         <div className="rounded-sm border border-stroke bg-white shadow-default ">
@@ -8,6 +9,7 @@ const AddPhoto = () => {
                     Your Photo
                 </h3>
             </div>
+            
             <div className="p-7">
                 <form action="#">
                     <div className="mb-4 flex items-center gap-3">

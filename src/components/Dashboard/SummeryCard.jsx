@@ -5,6 +5,7 @@ import { LuEye } from "react-icons/lu";
 import { HiOutlineShoppingCart } from "react-icons/hi";
 import { HiOutlineShoppingBag } from "react-icons/hi2";
 import { FaUserFriends } from "react-icons/fa";
+
 const SummeryCard = ({ item, index }) => {
     return (
         <div className="rounded-sm border border-stroke bg-white px-7 py-6 shadow-md">

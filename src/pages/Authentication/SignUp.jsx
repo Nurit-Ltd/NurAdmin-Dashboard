@@ -10,6 +10,7 @@ const SignUp = () => {
       <Helmet>
         <title>NurAdmin | Sign up</title>
       </Helmet>
+      
     <div className='container_fluid'>
       <div className="mx-auto max-w-242.5">
         <BredCrumb pageName={"Sing up"} />

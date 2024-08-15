@@ -12,6 +12,7 @@ const Profile = () => {
         Following: "2",
         about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque posuere fermentum urna, eu condimentum mauris tempus ut. Donec fermentum blandit aliquet. Etiam dictum dapibus ultricies. Sed vel aliquet libero. Nunc a augue fermentum, pharetra ligula sed, aliquam lacus."
     }
+    
     return (
         <>
             <Helmet>
